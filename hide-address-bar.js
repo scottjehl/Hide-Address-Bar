@@ -29,6 +29,6 @@
 					win.scrollTo( 0, scrollTop === 1 ? 0 : 1 );
 				}
 			}, 0);
-		} );
+		}, false );
 	}
 })( this );
